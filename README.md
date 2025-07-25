@@ -2,6 +2,32 @@
 <h1 align="center">Hi 👋, I'm Nancy</h1>
 <h3 align="center">I'm a student at brooklyn tech</h3>
 
+## 👩‍💻 About Me
+
+I’m a rising senior in high school.  
+I’m interested in learning web development and I’ve learned Python.
+
+I hope to display coding projects and collaborate with others on them in GitHub.
+
+## 🎓 Education
+
+I study civil engineering in high school.  
+Some courses I’ve taken are:
+
+- Engineering Statics  
+- PLTW Civil Engineering and Architecture
+
+## 🎨 Hobbies
+
+- Baking  
+- Crocheting  
+- Playing guitar
+
+## 🎮 Favorite Game
+
+*Little Nightmares* on Steam
+
+
 - 🔭 I’m currently working on **figma**
 
 - 🌱 I’m currently learning **figma, HTML, CSS, and JavaScript**
