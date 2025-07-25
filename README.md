@@ -5,7 +5,6 @@
 ## 👩‍💻 About Me
 
 I’m a rising senior in high school.  
-I’m interested in learning web development and I’ve learned Python.
 
 I hope to display coding projects and collaborate with others on them in GitHub.
 
