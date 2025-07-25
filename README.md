@@ -24,8 +24,7 @@ Some courses I’ve taken are:
 
 ## 🎮 Favorite Game
 
-*Little Nightmares* on Steam
-
+[Little Nightmares](https://store.steampowered.com/app/424840/Little_Nightmares/)
 
 - 🔭 I’m currently working on **figma**
 
