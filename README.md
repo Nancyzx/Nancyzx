@@ -1,10 +1,8 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Nancy</h1>
-<h3 align="center">I'm a student at brooklyn tech</h3>
+<h3 align="center">I'm a senior in highschool </h3>
 
 ## 👩‍💻 About Me
-
-I’m a rising senior in high school.  
 
 I hope to display coding projects and collaborate with others on them in GitHub.
 
